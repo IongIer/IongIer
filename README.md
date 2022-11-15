@@ -8,6 +8,7 @@ I am a self-taught programmer from Romania.
 - 🌱 I’m currently expanding my knowledge of algorithms and data-structures
 - 🤹‍♂️ Fun fact: I love juggling
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IongIer)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
