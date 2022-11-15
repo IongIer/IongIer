@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/math-processing-creative-coding-4ad1VRUMZSE7IoM0FM" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!--
