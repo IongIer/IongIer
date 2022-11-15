@@ -9,6 +9,8 @@ I am a self-taught programmer from Romania.
 - 🤹‍♂️ Fun fact: I love juggling
 
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?IongIer" frameborder="0"></iframe>
+
 <!--
 **IongIer/IongIer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
